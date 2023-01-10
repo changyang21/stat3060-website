@@ -1,4 +1,4 @@
-# A Keyword-Extraction-Algorithm based on Searching Method for Subscription Articles
+# A Keyword-Extraction-Algorithm Based Searching Method for Subscription Articles
 ### Cheng Zheng, Jinhua Sun, Yuliang Zhang, Yejia Liu  
 ### 2023/1/11
 --------------------------------
