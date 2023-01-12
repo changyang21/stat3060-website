@@ -1,8 +1,6 @@
 # portfolio
 
 
-
-
 ## p1
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
@@ -15,4 +13,3 @@
                         
                         
 ## p2
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
